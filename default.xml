@@ -3,6 +3,6 @@
 
   <remote  fetch="ssh://git@github.com:0TideLin/" name="origin" />
 
-  <project remote="origin" name="Repo2" revision="master"  upstream="master"/>
-  <project remote="origin" name="LinuxKernel" revision="master" upstream="master" />
+  <project remote="origin" name="Repo2" revision="master"  />
+  <project remote="origin" name="LinuxKernel" revision="master" />
 </manifest>
