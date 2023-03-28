@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  fetch="https://github.com/0TideLin/" name="origin" />
+  <remote  fetch="git@github.com:0TideLin/" name="origin" />
 
   <project remote="origin" name="Repo2" revision="master"  upstream="master"/>
   <project remote="origin" name="LinuxKernel" revision="master" upstream="master" />
